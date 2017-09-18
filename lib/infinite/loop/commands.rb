@@ -1,6 +1,6 @@
 include Infinite::Loop::Helpers
 
-require 'Infinite/loop/commands/apps'
-require 'Infinite/loop/commands/devices'
-require 'Infinite/loop/commands/login'
-require 'Infinite/loop/commands/logout'
+require 'infinite/loop/commands/apps'
+require 'infinite/loop/commands/devices'
+require 'infinite/loop/commands/login'
+require 'infinite/loop/commands/logout'
